@@ -1,5 +1,13 @@
-![Talmiz Ahmed](./Talmiz.svg)
+![Talmiz Ahmed](Talmiz.svg)
 ### Hi there 👋
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
+		<img src="Talmiz.svg" width="800" height="400" alt="">
+	</a>
+	<br>
+</div>
+
 <!--
 **HashTalmiz/HashTalmiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
