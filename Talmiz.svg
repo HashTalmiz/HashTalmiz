@@ -1,11 +1,6 @@
 <svg viewbox="0 0 700 225" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-   
-    <div xmlns="http://www.w3.org/1999/xhtml">
-    
     <clipPath id="textClip" class="filled-heading">
-        
-
+    
         <text y="100" x="45%" text-anchor="middle">Talmiz</text>
         <text y="200" x="55%" text-anchor="middle">Ahmed</text>
        
@@ -69,10 +64,13 @@
         <path d="m250.61 235.97c27.616-5.1225 37.462-46.601 20.403-76.147-17.058-29.546-62.902-27.232-75.178-20.144-12.277 7.088-23.943 56.565-17.942 66.959 6.0012 10.394 24.596 38.253 72.717 29.332z" stroke-width=".22275"/>
     </g>
   
-    
+ 
+   <foreignObject width="100%" height="100%">
+   
+    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
 
-         @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap'); 
+         <!-- @import url(https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap);  -->
          
           svg {
               width: 100%;
@@ -100,7 +98,7 @@
           } 
           
       </style>
-       <script>
+      <script>
         const colors = ['#f5a147','#51cad8','#112b39'];
 
         const blobs = document.querySelectorAll("#background path");
@@ -120,8 +118,7 @@
 
   
     </div>
-  </foreignObject> 
+  </foreignObject>  
+  
 
-
- </svg>
-
+</svg>
