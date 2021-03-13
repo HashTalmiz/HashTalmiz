@@ -1,12 +1,12 @@
-![Talmiz Ahmed](Talmiz.svg)
-### Hi there 👋
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/hashtalmiz/hashtalmiz/main/readme.md">
-		<img src="Talmiz.svg" width="800" height="400" alt="Click to see the source">
+	<a href="https://github.com/hashtalmiz">
+		<img src="Talmiz.svg" width="800" height="250" alt="Click to see the source">
 	</a>
 	<br>
 </div>
+
+### Hi there 👋
 
 <!--
 **HashTalmiz/HashTalmiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
