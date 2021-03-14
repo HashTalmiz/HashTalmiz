@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/hashtalmiz">
-		<img src="Talmiz.svg" width="800" height="250" alt="Click to see the source">
+		<img src="Talmiz.svg" width="700" height="250" alt="Talmiz Ahmed">
 	</a>
 	<br>
 </div>
