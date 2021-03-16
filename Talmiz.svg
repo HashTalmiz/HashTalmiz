@@ -1,4 +1,4 @@
-<svg viewbox="0 0 700 225" xmlns="http://www.w3.org/2000/svg" >
+<svg viewbox="0 0 700 225" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
     <clipPath id="textClip" class="filled-heading">
 
         <text y="100" x="45%" text-anchor="middle">Talmiz</text>
@@ -101,7 +101,6 @@
             0%, 100% { transform: scale(0) rotate(33deg); }
             35%, 65% { transform: scale(1) rotate(0deg); }
         } 
-  
       </style>
     </div>
   </foreignObject> 
